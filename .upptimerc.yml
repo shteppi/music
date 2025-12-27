@@ -5,6 +5,7 @@ repo: music # The name of this repository
 sites:
   - name: Navidrome Media Server
     url: https://music.hozzywozzy.com
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
