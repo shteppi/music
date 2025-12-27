@@ -4,17 +4,19 @@
     "url": "https://music.hozzywozzy.com",
     "icon": "https://icons.duckduckgo.com/ip3/music.hozzywozzy.com.ico",
     "slug": "navidrome-media-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "78.82%",
+    "uptimeDay": "78.82%",
+    "uptimeWeek": "78.82%",
+    "uptimeMonth": "78.82%",
+    "uptimeYear": "78.82%",
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
+    "dailyMinutesDown": {
+      "2025-12-27": 228
+    }
   }
 ]
